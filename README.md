@@ -22,13 +22,14 @@ El cristal o vidrio flotado consiste en una plancha de vidrio fabricada haciendo
 9. Ba: Bario
 10. Fe: Hierro
 11. Tipo de vidrio o cristal:
--- 1. Ventana construida mediante proceso flotado
--- 2. Ventana construida mediante proceso no flotado
--- 3. Parabrisas construido mediante proceso flotado
--- 4. Parabrisas construido mediante proceso no flotado (no hay registros en el dataset)
--- 5. Contenedores de cristal
--- 6. Vajilla de cristal
--- 7. Faros de cristal
+
+<li>1. Ventana construida mediante proceso flotado<br>
+<li> 2. Ventana construida mediante proceso no flotado<br>
+<li>3. Parabrisas construido mediante proceso flotado<br>
+<li>4. Parabrisas construido mediante proceso no flotado (no hay registros en el dataset)<br>
+<li>5. Contenedores de cristal<br>
+<li>6. Vajilla de cristal<br>
+<li>7. Faros de cristal
 
 ## Tecnologías 🛡
 
