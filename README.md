@@ -9,7 +9,7 @@
 El estudio de la clasificación de los tipos de vidrio estuvo motivado por la investigación criminológica. En la escena del crimen, el cristal puede usarse como evidencia... ¡si se identifica correctamente!
 
 ### Acercamiento a la creación del cristal flotado
-El cristal o vidrio flotado consiste en una plancha de vidrio fabricada haciendo flotar el vidrio fundido sobre una capa de estaño también fundido. Este método proporciona al vidrio un grosor uniforme y una superficie muy plana, por lo que es el vidrio más utilizado en la construcción. Se le denomina también vidrio plano, sin embargo no todos los vidrios planos son vidrios fabricados mediante este sistema.
+El cristal o vidrio flotado consiste en una plancha de vidrio fabricada haciendo flotar el vidrio fundido sobre una capa de estaño también fundido. Este método proporciona a este un grosor uniforme y una superficie muy plana, por lo que es el vidrio más utilizado en la construcción. Se le denomina también cristal plano, sin embargo no todos son fabricados mediante este sistema.
 
 ## Features 👀
 1. RI: Indice de refracción
