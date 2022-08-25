@@ -54,5 +54,9 @@ Con esto se descargarán e instalarán los paquetes necesarios.
 Para instalar auto-sklearn se recomienda leer la documentación oficial ya que se necesitan ciertos [requerimientos](https://automl.github.io/auto-sklearn/master/installation.html).
 
 
+## Fuente
+
+https://www.kaggle.com/datasets/uciml/glass
+
 ## Autor 🖋
 *Franco Nicolás Alarcón*
