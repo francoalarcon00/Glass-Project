@@ -53,7 +53,19 @@ pip install -r packages.txt
 Con esto se descargarán e instalarán los paquetes necesarios.
 Para instalar auto-sklearn se recomienda leer la documentación oficial ya que se necesitan ciertos [requerimientos](https://automl.github.io/auto-sklearn/master/installation.html).
 
+## Pasos de análisis
 
+1. Leer (o ejecutar) data_cleaning.ipynb
+    Proceso de limpieza
+
+2. Leer (o ejecutar) glass_analysis.ipynb
+    Proceso de análisis y EDA
+
+3. Leer (o ejecutar) model_selection.ipynb
+    Proceso de selección del modelo y sus hiperparámetros
+
+4. Leer (o ejecutar) model.ipynb
+    Proceso de modelado, entrenamiento y resultados
 ## Fuente
 
 https://www.kaggle.com/datasets/uciml/glass
