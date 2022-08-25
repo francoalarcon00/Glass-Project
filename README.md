@@ -45,7 +45,7 @@ Este proyecto contiene las siguientes librerias:
 
 Este proyecto (si se desea ejecutar en su ordenador de forma local) requiere de un sistema operativo Linux, la extensión de Jupyter en su IDE de preferencia y  [Python3.9](https://www.python.org/) en adelante.
 
-Luego de clonar el repositorio o haberlo descargado, abra la terminal y escriba el siguiente comando:
+Luego de clonar el repositorio o haberlo descargado, abra la terminal (en la ruta donde se ecuentra el repositorio local) y escriba el siguiente comando:
 
 ```
 pip install -r packages.txt
