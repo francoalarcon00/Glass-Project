@@ -55,17 +55,13 @@ Para instalar auto-sklearn se recomienda leer la documentación oficial ya que s
 
 ## Pasos de análisis
 
-1. Leer (o ejecutar) data_cleaning.ipynb
-    Proceso de limpieza
+1. Leer (o ejecutar) data_cleaning.ipynb --> Proceso de limpieza
 
-2. Leer (o ejecutar) glass_analysis.ipynb
-    Proceso de análisis y EDA
+2. Leer (o ejecutar) glass_analysis.ipynb --> Proceso de análisis y EDA
 
-3. Leer (o ejecutar) model_selection.ipynb
-    Proceso de selección del modelo y sus hiperparámetros
+3. Leer (o ejecutar) model_selection.ipynb --> Proceso de selección del modelo y sus hiperparámetros
 
-4. Leer (o ejecutar) model.ipynb
-    Proceso de modelado, entrenamiento y resultados
+4. Leer (o ejecutar) model.ipynb --> Proceso de modelado, entrenamiento y resultados
 ## Fuente
 
 https://www.kaggle.com/datasets/uciml/glass
